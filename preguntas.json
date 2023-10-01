@@ -1,0 +1,94 @@
+[
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién se considera el mejor jugador de baloncesto de todos los tiempos?",
+        "respuesta": "Michael Jordan",
+        "incorrecta1": "Kobe Bryant",
+        "incorrecta2": "LeBron James",
+        "incorrecta3": "Magic Johnson"
+        
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "Si juegas a la NFL ¿qué deporte practicas?",
+        "respuesta": "Fútbol americano",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Voleibol",
+        "incorrecta3": "Baloncesto"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cómo se llama el lugar donde se realizan las carreras de caballos?",
+        "respuesta": " Hipódromo",
+        "incorrecta1": "Gimnasio",
+        "incorrecta2": "Velódromo",
+        "incorrecta3": "Estadio"
+       
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos?",
+        "respuesta": "4 años",
+        "incorrecta1": "5 años",
+        "incorrecta2": "3 años",
+        "incorrecta3": "10 años"
+        
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el deporte nacional en Japón?",
+        "respuesta": "Sumo",
+        "incorrecta1": "Kendo",
+        "incorrecta2": "Karate",
+        "incorrecta3": "Judo"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuantos puntos son necesarios para ganar un set de voleibol?",
+        "respuesta": "25",
+        "incorrecta1": "40",
+        "incorrecta2": "35",
+        "incorrecta3": "15"
+    },
+    {
+        "categoria": "Videojuegos",
+        "pregunta": "¿Quién es el personaje de videojuegos más famoso de todos los tiempos?",
+        "respuesta": "Mario",
+        "incorrecta1": "Sonic",
+        "incorrecta2": "Ryu",
+        "incorrecta3": "Mega Man"
+    },
+    {
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuál es el nombre del objeto circular que se usa para recolectar Pokémon?",
+        "respuesta": "Pokebola",
+        "incorrecta1": "Bayas",
+        "incorrecta2": "Incubadoras",
+        "incorrecta3": "Poción"
+    },
+    {
+        "categoria": "Videojuegos",
+        "pregunta": " ¿Cuál es el videojuego más vendido de todos los tiempos?",
+        "respuesta": "Minecraft",
+        "incorrecta1": "GTA V",
+        "incorrecta2": "PUBG",
+        "incorrecta3": "Super Mario Bros"
+    },
+    {
+        "categoria": "Videojuegos",
+        "pregunta": "Cuál es el videojuego más caro de todos los tiempos?",
+        "respuesta": "GTA V",
+        "incorrecta1": "Super Mario",
+        "incorrecta2": "Minecraft",
+        "incorrecta3": "Fortnite"
+    },
+    {
+        "categoria": "Videojuegos",
+        "pregunta": "¿En que juego sale el personaje Huggy Wuggy?",
+        "respuesta": "Poppy Playtime",
+        "incorrecta1": "five nights at freddy's",
+        "incorrecta2": "Mad Father",
+        "incorrecta3": "Pokemon"
+    }
+   
+]
